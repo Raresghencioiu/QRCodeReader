@@ -1,0 +1,9 @@
+D:\Bucales Job\TransPerfectQR\QRCodeReader\QRCodeReader.Common.Extensions\bin\Debug\netcoreapp3.1\QRCodeReader.Common.Extensions.deps.json
+D:\Bucales Job\TransPerfectQR\QRCodeReader\QRCodeReader.Common.Extensions\bin\Debug\netcoreapp3.1\QRCodeReader.Common.Extensions.dll
+D:\Bucales Job\TransPerfectQR\QRCodeReader\QRCodeReader.Common.Extensions\obj\Debug\netcoreapp3.1\QRCodeReader.Common.Extensions.csprojAssemblyReference.cache
+D:\Bucales Job\TransPerfectQR\QRCodeReader\QRCodeReader.Common.Extensions\obj\Debug\netcoreapp3.1\QRCodeReader.Common.Extensions.AssemblyInfoInputs.cache
+D:\Bucales Job\TransPerfectQR\QRCodeReader\QRCodeReader.Common.Extensions\obj\Debug\netcoreapp3.1\QRCodeReader.Common.Extensions.AssemblyInfo.cs
+D:\Bucales Job\TransPerfectQR\QRCodeReader\QRCodeReader.Common.Extensions\bin\Debug\netcoreapp3.1\QRCodeReader.Common.Extensions.pdb
+D:\Bucales Job\TransPerfectQR\QRCodeReader\QRCodeReader.Common.Extensions\obj\Debug\netcoreapp3.1\QRCodeReader.Common.Extensions.csproj.CoreCompileInputs.cache
+D:\Bucales Job\TransPerfectQR\QRCodeReader\QRCodeReader.Common.Extensions\obj\Debug\netcoreapp3.1\QRCodeReader.Common.Extensions.dll
+D:\Bucales Job\TransPerfectQR\QRCodeReader\QRCodeReader.Common.Extensions\obj\Debug\netcoreapp3.1\QRCodeReader.Common.Extensions.pdb
